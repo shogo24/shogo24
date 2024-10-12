@@ -1,4 +1,4 @@
-\# 💫 About Me:
+# 💫 About Me:
 I'm currently learning C++, Python, and Front-End Web Development at Bow Valley College. I'm passionate about coding and excited to build projects to further boost my abilities. <br>
 
 
