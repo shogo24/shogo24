@@ -3,8 +3,6 @@
 Full-stack developer and game dev enthusiast, currently studying at Bow Valley College. I build modern web applications, explore game development, and love projects that sit at the intersection of clean architecture and creative design.
 
 - 🌐 Portfolio: [shogo-hardy.com](https://shogo-hardy.com)
-- 🎮 Currently building: **CodeType** (Unity) & **Harrowing** (Unreal Engine)
-- 🦆 Founded **Debugging Ducks** — a student coding club at Bow Valley College
 - 📫 Reach me at: shogo.a.hardy@gmail.com
 
 ---
