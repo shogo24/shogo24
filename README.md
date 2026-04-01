@@ -2,7 +2,7 @@
 
 Full-stack developer and game dev enthusiast, currently studying at Bow Valley College. I build modern web applications, explore game development, and love projects that sit at the intersection of clean architecture and creative design.
 
-- 🌐 Portfolio: [shogo-hardy.com](https://shogohardy.site)
+- 🌐 Portfolio: [shogohardy.site](https://shogohardy.site)
 - 📫 Reach me at: shogo.a.hardy@gmail.com
 
 ---
